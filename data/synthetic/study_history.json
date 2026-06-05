@@ -1,0 +1,3530 @@
+[
+  {
+    "employee_id": "emp_001",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 52,
+        "activity_type": "new_material",
+        "quiz_score": 0.74,
+        "retention_rate": 0.67,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 41,
+        "activity_type": "new_material",
+        "quiz_score": 0.72,
+        "retention_rate": 0.69,
+        "notes": "Followed hands-on lab exercise for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 49,
+        "activity_type": "review",
+        "quiz_score": 0.66,
+        "retention_rate": 0.59,
+        "notes": "Went over quiz mistakes for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 49,
+        "activity_type": "review",
+        "quiz_score": 0.68,
+        "retention_rate": 0.61,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 50,
+        "activity_type": "new_material",
+        "quiz_score": 0.67,
+        "retention_rate": 0.61,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 55,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.69,
+        "retention_rate": 0.64,
+        "notes": "Self-assessed skills for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 45,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.69,
+        "retention_rate": 0.67,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 50,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.72,
+        "retention_rate": 0.69,
+        "notes": "Attempted practice questions on Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 50,
+        "activity_type": "new_material",
+        "quiz_score": 0.72,
+        "retention_rate": 0.68,
+        "notes": "Read official documentation on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m10",
+        "topic": "Develop Event-Based Solutions",
+        "duration_minutes": 40,
+        "activity_type": "review",
+        "quiz_score": 0.66,
+        "retention_rate": 0.6,
+        "notes": "Reviewed summary notes and cards on Develop Event-Based Solutions."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 10,
+      "total_study_hours": 8.0,
+      "avg_quiz_score": 0.7,
+      "avg_retention_rate": 0.65,
+      "consistency_score": 0.31,
+      "modules_started": 6,
+      "modules_completed": 3,
+      "streak_current_days": 0,
+      "streak_longest_days": 4
+    }
+  },
+  {
+    "employee_id": "emp_002",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 55,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.82,
+        "retention_rate": 0.8,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 55,
+        "activity_type": "review",
+        "quiz_score": 0.8,
+        "retention_rate": 0.74,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 68,
+        "activity_type": "review",
+        "quiz_score": 0.75,
+        "retention_rate": 0.7,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.79,
+        "notes": "Went over quiz mistakes for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 56,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.82,
+        "retention_rate": 0.75,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-30",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 64,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.71,
+        "notes": "Re-read key concepts of Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 58,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.76,
+        "notes": "Took short mock test on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.79,
+        "retention_rate": 0.77,
+        "notes": "Went over quiz mistakes for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 69,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.71,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.73,
+        "notes": "Went over quiz mistakes for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 65,
+        "activity_type": "new_material",
+        "quiz_score": 0.8,
+        "retention_rate": 0.76,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 63,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.7,
+        "notes": "Reviewed summary notes and cards on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 61,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.73,
+        "notes": "Read official documentation on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 65,
+        "activity_type": "new_material",
+        "quiz_score": 0.81,
+        "retention_rate": 0.78,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m09",
+        "topic": "Implement API Management",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.8,
+        "retention_rate": 0.72,
+        "notes": "Re-read key concepts of Implement API Management."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 70,
+        "activity_type": "review",
+        "quiz_score": 0.83,
+        "retention_rate": 0.79,
+        "notes": "Re-read key concepts of Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 55,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.75,
+        "notes": "Self-assessed skills for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 56,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.72,
+        "notes": "Re-read key concepts of Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-25",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 65,
+        "activity_type": "review",
+        "quiz_score": 0.85,
+        "retention_rate": 0.78,
+        "notes": "Reviewed summary notes and cards on Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-29",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 60,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.71,
+        "notes": "Reviewed summary notes and cards on Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 60,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.79,
+        "retention_rate": 0.75,
+        "notes": "Attempted practice questions on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 63,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.76,
+        "retention_rate": 0.72,
+        "notes": "Self-assessed skills for Implement Secure Cloud Solutions."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 22,
+      "total_study_hours": 22.4,
+      "avg_quiz_score": 0.8,
+      "avg_retention_rate": 0.74,
+      "consistency_score": 0.68,
+      "modules_started": 9,
+      "modules_completed": 9,
+      "streak_current_days": 2,
+      "streak_longest_days": 8
+    }
+  },
+  {
+    "employee_id": "emp_003",
+    "certification_target": "AZ-900",
+    "sessions": [
+      {
+        "date": "2026-04-29",
+        "module_id": "az900_m01",
+        "topic": "Describe Cloud Concepts",
+        "duration_minutes": 39,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.61,
+        "retention_rate": 0.57,
+        "notes": "Self-assessed skills for Describe Cloud Concepts."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "az900_m02",
+        "topic": "Describe Azure Architecture and Services",
+        "duration_minutes": 28,
+        "activity_type": "new_material",
+        "quiz_score": 0.58,
+        "retention_rate": 0.56,
+        "notes": "Completed learning path section for Describe Azure Architecture and Services."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az900_m03",
+        "topic": "Describe Azure Management and Governance",
+        "duration_minutes": 26,
+        "activity_type": "review",
+        "quiz_score": 0.6,
+        "retention_rate": 0.57,
+        "notes": "Went over quiz mistakes for Describe Azure Management and Governance."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "az900_m01",
+        "topic": "Describe Cloud Concepts",
+        "duration_minutes": 32,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.58,
+        "retention_rate": 0.54,
+        "notes": "Took short mock test on Describe Cloud Concepts."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 4,
+      "total_study_hours": 2.1,
+      "avg_quiz_score": 0.59,
+      "avg_retention_rate": 0.56,
+      "consistency_score": 0.16,
+      "modules_started": 3,
+      "modules_completed": 0,
+      "streak_current_days": 0,
+      "streak_longest_days": 2
+    }
+  },
+  {
+    "employee_id": "emp_004",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 54,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.78,
+        "retention_rate": 0.75,
+        "notes": "Self-assessed skills for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 42,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.78,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 41,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.78,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 44,
+        "activity_type": "new_material",
+        "quiz_score": 0.8,
+        "retention_rate": 0.77,
+        "notes": "Read official documentation on Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 46,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 40,
+        "activity_type": "new_material",
+        "quiz_score": 0.75,
+        "retention_rate": 0.69,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-30",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 49,
+        "activity_type": "new_material",
+        "quiz_score": 0.84,
+        "retention_rate": 0.77,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 50,
+        "activity_type": "new_material",
+        "quiz_score": 0.78,
+        "retention_rate": 0.72,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 54,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.75,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 52,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.72,
+        "notes": "Took short mock test on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 41,
+        "activity_type": "review",
+        "quiz_score": 0.76,
+        "retention_rate": 0.69,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 44,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.75,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 54,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.79,
+        "retention_rate": 0.73,
+        "notes": "Attempted practice questions on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 41,
+        "activity_type": "new_material",
+        "quiz_score": 0.79,
+        "retention_rate": 0.75,
+        "notes": "Followed hands-on lab exercise for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 50,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.81,
+        "notes": "Took short mock test on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 44,
+        "activity_type": "review",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 50,
+        "activity_type": "new_material",
+        "quiz_score": 0.77,
+        "retention_rate": 0.7,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 46,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.77,
+        "retention_rate": 0.72,
+        "notes": "Attempted practice questions on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 42,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.73,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 46,
+        "activity_type": "new_material",
+        "quiz_score": 0.79,
+        "retention_rate": 0.71,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 40,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.75,
+        "notes": "Re-read key concepts of Integrate Caching and Content Delivery Networks."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 21,
+      "total_study_hours": 16.2,
+      "avg_quiz_score": 0.8,
+      "avg_retention_rate": 0.75,
+      "consistency_score": 0.69,
+      "modules_started": 5,
+      "modules_completed": 5,
+      "streak_current_days": 4,
+      "streak_longest_days": 5
+    }
+  },
+  {
+    "employee_id": "emp_005",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 90,
+        "activity_type": "review",
+        "quiz_score": 0.89,
+        "retention_rate": 0.84,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 90,
+        "activity_type": "new_material",
+        "quiz_score": 0.92,
+        "retention_rate": 0.85,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 88,
+        "activity_type": "review",
+        "quiz_score": 0.86,
+        "retention_rate": 0.78,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 96,
+        "activity_type": "new_material",
+        "quiz_score": 0.89,
+        "retention_rate": 0.82,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 88,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.86,
+        "retention_rate": 0.82,
+        "notes": "Self-assessed skills for Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-27",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 94,
+        "activity_type": "review",
+        "quiz_score": 0.95,
+        "retention_rate": 0.91,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 88,
+        "activity_type": "review",
+        "quiz_score": 0.86,
+        "retention_rate": 0.83,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 89,
+        "activity_type": "review",
+        "quiz_score": 0.94,
+        "retention_rate": 0.91,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 98,
+        "activity_type": "new_material",
+        "quiz_score": 0.87,
+        "retention_rate": 0.8,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 97,
+        "activity_type": "review",
+        "quiz_score": 0.9,
+        "retention_rate": 0.85,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 93,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.86,
+        "retention_rate": 0.81,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 94,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.92,
+        "retention_rate": 0.85,
+        "notes": "Self-assessed skills for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-05",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 94,
+        "activity_type": "review",
+        "quiz_score": 0.95,
+        "retention_rate": 0.89,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 87,
+        "activity_type": "new_material",
+        "quiz_score": 0.87,
+        "retention_rate": 0.85,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 87,
+        "activity_type": "review",
+        "quiz_score": 0.9,
+        "retention_rate": 0.83,
+        "notes": "Went over quiz mistakes for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 98,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.89,
+        "retention_rate": 0.83,
+        "notes": "Self-assessed skills for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-09",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 91,
+        "activity_type": "new_material",
+        "quiz_score": 0.86,
+        "retention_rate": 0.79,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 85,
+        "activity_type": "new_material",
+        "quiz_score": 0.94,
+        "retention_rate": 0.86,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 88,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.87,
+        "retention_rate": 0.81,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 100,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.89,
+        "retention_rate": 0.83,
+        "notes": "Attempted practice questions on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 97,
+        "activity_type": "review",
+        "quiz_score": 0.92,
+        "retention_rate": 0.86,
+        "notes": "Went over quiz mistakes for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-16",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 89,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.86,
+        "retention_rate": 0.83,
+        "notes": "Self-assessed skills for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-17",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 93,
+        "activity_type": "review",
+        "quiz_score": 0.89,
+        "retention_rate": 0.84,
+        "notes": "Re-read key concepts of Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-18",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 87,
+        "activity_type": "new_material",
+        "quiz_score": 0.9,
+        "retention_rate": 0.83,
+        "notes": "Followed hands-on lab exercise for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 88,
+        "activity_type": "review",
+        "quiz_score": 0.9,
+        "retention_rate": 0.84,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 100,
+        "activity_type": "new_material",
+        "quiz_score": 0.91,
+        "retention_rate": 0.84,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 94,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.93,
+        "retention_rate": 0.88,
+        "notes": "Self-assessed skills for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "az204_m10",
+        "topic": "Develop Event-Based Solutions",
+        "duration_minutes": 91,
+        "activity_type": "new_material",
+        "quiz_score": 0.92,
+        "retention_rate": 0.84,
+        "notes": "Read official documentation on Develop Event-Based Solutions."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 96,
+        "activity_type": "review",
+        "quiz_score": 0.86,
+        "retention_rate": 0.83,
+        "notes": "Went over quiz mistakes for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-25",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 87,
+        "activity_type": "new_material",
+        "quiz_score": 0.94,
+        "retention_rate": 0.86,
+        "notes": "Followed hands-on lab exercise for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 88,
+        "activity_type": "review",
+        "quiz_score": 0.95,
+        "retention_rate": 0.9,
+        "notes": "Went over quiz mistakes for Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 100,
+        "activity_type": "review",
+        "quiz_score": 0.94,
+        "retention_rate": 0.87,
+        "notes": "Re-read key concepts of Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-29",
+        "module_id": "az204_m10",
+        "topic": "Develop Event-Based Solutions",
+        "duration_minutes": 93,
+        "activity_type": "review",
+        "quiz_score": 0.91,
+        "retention_rate": 0.87,
+        "notes": "Went over quiz mistakes for Develop Event-Based Solutions."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 86,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.87,
+        "retention_rate": 0.84,
+        "notes": "Self-assessed skills for Troubleshoot Solutions by Using Metrics and Logs."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 34,
+      "total_study_hours": 52.1,
+      "avg_quiz_score": 0.9,
+      "avg_retention_rate": 0.84,
+      "consistency_score": 0.93,
+      "modules_started": 9,
+      "modules_completed": 9,
+      "streak_current_days": 12,
+      "streak_longest_days": 12
+    }
+  },
+  {
+    "employee_id": "emp_006",
+    "certification_target": "AZ-900",
+    "sessions": [],
+    "summary_stats": {
+      "total_sessions": 0,
+      "total_study_hours": 0.0,
+      "avg_quiz_score": 0.0,
+      "avg_retention_rate": 0.0,
+      "consistency_score": 0.0,
+      "modules_started": 0,
+      "modules_completed": 0,
+      "streak_current_days": 0,
+      "streak_longest_days": 0
+    }
+  },
+  {
+    "employee_id": "emp_007",
+    "certification_target": "SC-200",
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 39,
+        "activity_type": "review",
+        "quiz_score": 0.7,
+        "retention_rate": 0.68,
+        "notes": "Re-read key concepts of Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 50,
+        "activity_type": "review",
+        "quiz_score": 0.67,
+        "retention_rate": 0.62,
+        "notes": "Re-read key concepts of Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-09",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 37,
+        "activity_type": "review",
+        "quiz_score": 0.71,
+        "retention_rate": 0.64,
+        "notes": "Re-read key concepts of Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 46,
+        "activity_type": "review",
+        "quiz_score": 0.65,
+        "retention_rate": 0.63,
+        "notes": "Re-read key concepts of Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-16",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 50,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.75,
+        "retention_rate": 0.7,
+        "notes": "Self-assessed skills for Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 39,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.72,
+        "retention_rate": 0.7,
+        "notes": "Attempted practice questions on Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 48,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.73,
+        "retention_rate": 0.66,
+        "notes": "Took short mock test on Mitigate Threats using Microsoft Defender."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 7,
+      "total_study_hours": 5.2,
+      "avg_quiz_score": 0.7,
+      "avg_retention_rate": 0.66,
+      "consistency_score": 0.44,
+      "modules_started": 2,
+      "modules_completed": 2,
+      "streak_current_days": 0,
+      "streak_longest_days": 4
+    }
+  },
+  {
+    "employee_id": "emp_008",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 83,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.87,
+        "retention_rate": 0.8,
+        "notes": "Self-assessed skills for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-22",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 84,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.94,
+        "retention_rate": 0.89,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 82,
+        "activity_type": "review",
+        "quiz_score": 0.86,
+        "retention_rate": 0.78,
+        "notes": "Went over quiz mistakes for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 75,
+        "activity_type": "new_material",
+        "quiz_score": 0.89,
+        "retention_rate": 0.87,
+        "notes": "Read official documentation on Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 76,
+        "activity_type": "review",
+        "quiz_score": 0.89,
+        "retention_rate": 0.85,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 81,
+        "activity_type": "new_material",
+        "quiz_score": 0.87,
+        "retention_rate": 0.81,
+        "notes": "Followed hands-on lab exercise for Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-27",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 76,
+        "activity_type": "review",
+        "quiz_score": 0.91,
+        "retention_rate": 0.84,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 79,
+        "activity_type": "new_material",
+        "quiz_score": 0.9,
+        "retention_rate": 0.87,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 84,
+        "activity_type": "review",
+        "quiz_score": 0.9,
+        "retention_rate": 0.86,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 82,
+        "activity_type": "review",
+        "quiz_score": 0.92,
+        "retention_rate": 0.88,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 74,
+        "activity_type": "new_material",
+        "quiz_score": 0.89,
+        "retention_rate": 0.84,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 84,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.92,
+        "retention_rate": 0.85,
+        "notes": "Self-assessed skills for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 75,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.91,
+        "retention_rate": 0.84,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 82,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.93,
+        "retention_rate": 0.85,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 74,
+        "activity_type": "new_material",
+        "quiz_score": 0.9,
+        "retention_rate": 0.84,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-09",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 79,
+        "activity_type": "review",
+        "quiz_score": 0.91,
+        "retention_rate": 0.88,
+        "notes": "Reviewed summary notes and cards on Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 76,
+        "activity_type": "review",
+        "quiz_score": 0.9,
+        "retention_rate": 0.84,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 79,
+        "activity_type": "new_material",
+        "quiz_score": 0.91,
+        "retention_rate": 0.84,
+        "notes": "Followed hands-on lab exercise for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 80,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Self-assessed skills for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 77,
+        "activity_type": "new_material",
+        "quiz_score": 0.87,
+        "retention_rate": 0.85,
+        "notes": "Completed learning path section for Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 83,
+        "activity_type": "new_material",
+        "quiz_score": 0.86,
+        "retention_rate": 0.79,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-17",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 73,
+        "activity_type": "review",
+        "quiz_score": 0.91,
+        "retention_rate": 0.88,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-18",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 74,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.92,
+        "retention_rate": 0.89,
+        "notes": "Attempted practice questions on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 79,
+        "activity_type": "review",
+        "quiz_score": 0.95,
+        "retention_rate": 0.89,
+        "notes": "Re-read key concepts of Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 77,
+        "activity_type": "review",
+        "quiz_score": 0.94,
+        "retention_rate": 0.91,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 76,
+        "activity_type": "new_material",
+        "quiz_score": 0.9,
+        "retention_rate": 0.82,
+        "notes": "Followed hands-on lab exercise for Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 73,
+        "activity_type": "new_material",
+        "quiz_score": 0.87,
+        "retention_rate": 0.8,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 82,
+        "activity_type": "new_material",
+        "quiz_score": 0.92,
+        "retention_rate": 0.87,
+        "notes": "Followed hands-on lab exercise for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-25",
+        "module_id": "az204_m11",
+        "topic": "Develop Message-Based Solutions",
+        "duration_minutes": 83,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.93,
+        "retention_rate": 0.86,
+        "notes": "Took short mock test on Develop Message-Based Solutions."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 77,
+        "activity_type": "new_material",
+        "quiz_score": 0.88,
+        "retention_rate": 0.84,
+        "notes": "Followed hands-on lab exercise for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 72,
+        "activity_type": "review",
+        "quiz_score": 0.95,
+        "retention_rate": 0.93,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-29",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 84,
+        "activity_type": "review",
+        "quiz_score": 0.95,
+        "retention_rate": 0.93,
+        "notes": "Went over quiz mistakes for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 84,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.89,
+        "retention_rate": 0.85,
+        "notes": "Took short mock test on Implement Azure Functions."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 33,
+      "total_study_hours": 43.3,
+      "avg_quiz_score": 0.9,
+      "avg_retention_rate": 0.85,
+      "consistency_score": 0.87,
+      "modules_started": 9,
+      "modules_completed": 9,
+      "streak_current_days": 5,
+      "streak_longest_days": 20
+    }
+  },
+  {
+    "employee_id": "emp_009",
+    "certification_target": "SC-900",
+    "sessions": [
+      {
+        "date": "2026-05-03",
+        "module_id": "sc900_m01",
+        "topic": "Describe Core Security and Entra Capabilities",
+        "duration_minutes": 33,
+        "activity_type": "review",
+        "quiz_score": 0.57,
+        "retention_rate": 0.53,
+        "notes": "Went over quiz mistakes for Describe Core Security and Entra Capabilities."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "sc900_m01",
+        "topic": "Describe Core Security and Entra Capabilities",
+        "duration_minutes": 36,
+        "activity_type": "review",
+        "quiz_score": 0.56,
+        "retention_rate": 0.5,
+        "notes": "Re-read key concepts of Describe Core Security and Entra Capabilities."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "sc900_m02",
+        "topic": "Describe Microsoft Security Solutions",
+        "duration_minutes": 30,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.59,
+        "retention_rate": 0.56,
+        "notes": "Self-assessed skills for Describe Microsoft Security Solutions."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "sc900_m02",
+        "topic": "Describe Microsoft Security Solutions",
+        "duration_minutes": 29,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.57,
+        "retention_rate": 0.52,
+        "notes": "Self-assessed skills for Describe Microsoft Security Solutions."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "sc900_m01",
+        "topic": "Describe Core Security and Entra Capabilities",
+        "duration_minutes": 37,
+        "activity_type": "new_material",
+        "quiz_score": 0.62,
+        "retention_rate": 0.57,
+        "notes": "Completed learning path section for Describe Core Security and Entra Capabilities."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 5,
+      "total_study_hours": 2.8,
+      "avg_quiz_score": 0.58,
+      "avg_retention_rate": 0.54,
+      "consistency_score": 0.13,
+      "modules_started": 2,
+      "modules_completed": 0,
+      "streak_current_days": 0,
+      "streak_longest_days": 2
+    }
+  },
+  {
+    "employee_id": "emp_010",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 60,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.76,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 67,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.77,
+        "retention_rate": 0.73,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 65,
+        "activity_type": "new_material",
+        "quiz_score": 0.79,
+        "retention_rate": 0.74,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 64,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.77,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 69,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.85,
+        "retention_rate": 0.81,
+        "notes": "Self-assessed skills for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.81,
+        "retention_rate": 0.79,
+        "notes": "Re-read key concepts of Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 66,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.71,
+        "notes": "Read official documentation on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 57,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.75,
+        "retention_rate": 0.67,
+        "notes": "Self-assessed skills for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 64,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.74,
+        "notes": "Took short mock test on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 61,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.76,
+        "notes": "Self-assessed skills for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 61,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.81,
+        "notes": "Attempted practice questions on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 67,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.8,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 62,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.69,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 55,
+        "activity_type": "review",
+        "quiz_score": 0.79,
+        "retention_rate": 0.77,
+        "notes": "Went over quiz mistakes for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-16",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 65,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.77,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-18",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 64,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.74,
+        "notes": "Attempted practice questions on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 61,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.79,
+        "retention_rate": 0.73,
+        "notes": "Attempted practice questions on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 63,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.78,
+        "notes": "Attempted practice questions on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 69,
+        "activity_type": "review",
+        "quiz_score": 0.8,
+        "retention_rate": 0.76,
+        "notes": "Went over quiz mistakes for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 68,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.78,
+        "notes": "Took short mock test on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "az204_m11",
+        "topic": "Develop Message-Based Solutions",
+        "duration_minutes": 61,
+        "activity_type": "new_material",
+        "quiz_score": 0.79,
+        "retention_rate": 0.73,
+        "notes": "Completed learning path section for Develop Message-Based Solutions."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.74,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 67,
+        "activity_type": "review",
+        "quiz_score": 0.76,
+        "retention_rate": 0.71,
+        "notes": "Went over quiz mistakes for Integrate Caching and Content Delivery Networks."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 23,
+      "total_study_hours": 24.2,
+      "avg_quiz_score": 0.8,
+      "avg_retention_rate": 0.75,
+      "consistency_score": 0.8,
+      "modules_started": 8,
+      "modules_completed": 8,
+      "streak_current_days": 4,
+      "streak_longest_days": 8
+    }
+  },
+  {
+    "employee_id": "emp_011",
+    "certification_target": "SC-200",
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 50,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.72,
+        "notes": "Went over quiz mistakes for Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 41,
+        "activity_type": "review",
+        "quiz_score": 0.75,
+        "retention_rate": 0.73,
+        "notes": "Reviewed summary notes and cards on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 50,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.82,
+        "retention_rate": 0.79,
+        "notes": "Took short mock test on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 54,
+        "activity_type": "new_material",
+        "quiz_score": 0.77,
+        "retention_rate": 0.7,
+        "notes": "Read official documentation on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-04-30",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 44,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.75,
+        "notes": "Took short mock test on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 47,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.77,
+        "notes": "Completed learning path section for Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-05",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 51,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.74,
+        "notes": "Took short mock test on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 47,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.78,
+        "notes": "Took short mock test on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 48,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.77,
+        "retention_rate": 0.74,
+        "notes": "Attempted practice questions on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-09",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 48,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.75,
+        "notes": "Re-read key concepts of Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 40,
+        "activity_type": "new_material",
+        "quiz_score": 0.77,
+        "retention_rate": 0.69,
+        "notes": "Followed hands-on lab exercise for Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 52,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.7,
+        "notes": "Completed learning path section for Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 46,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.77,
+        "notes": "Attempted practice questions on Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 41,
+        "activity_type": "new_material",
+        "quiz_score": 0.75,
+        "retention_rate": 0.68,
+        "notes": "Read official documentation on Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 40,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.79,
+        "retention_rate": 0.74,
+        "notes": "Self-assessed skills for Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 44,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.79,
+        "notes": "Followed hands-on lab exercise for Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "sc200_m01",
+        "topic": "Mitigate Threats using Microsoft Defender",
+        "duration_minutes": 49,
+        "activity_type": "review",
+        "quiz_score": 0.81,
+        "retention_rate": 0.76,
+        "notes": "Reviewed summary notes and cards on Mitigate Threats using Microsoft Defender."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 42,
+        "activity_type": "review",
+        "quiz_score": 0.75,
+        "retention_rate": 0.72,
+        "notes": "Re-read key concepts of Manage SIEM and SOAR using Microsoft Sentinel."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "sc200_m02",
+        "topic": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "duration_minutes": 44,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.78,
+        "retention_rate": 0.75,
+        "notes": "Self-assessed skills for Manage SIEM and SOAR using Microsoft Sentinel."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 19,
+      "total_study_hours": 14.6,
+      "avg_quiz_score": 0.79,
+      "avg_retention_rate": 0.74,
+      "consistency_score": 0.64,
+      "modules_started": 2,
+      "modules_completed": 2,
+      "streak_current_days": 2,
+      "streak_longest_days": 5
+    }
+  },
+  {
+    "employee_id": "emp_012",
+    "certification_target": "DP-203",
+    "sessions": [
+      {
+        "date": "2026-04-22",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 69,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.75,
+        "notes": "Took short mock test on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 58,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.76,
+        "retention_rate": 0.73,
+        "notes": "Self-assessed skills for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 68,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.74,
+        "notes": "Reviewed summary notes and cards on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 56,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.77,
+        "notes": "Attempted practice questions on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 56,
+        "activity_type": "review",
+        "quiz_score": 0.79,
+        "retention_rate": 0.72,
+        "notes": "Reviewed summary notes and cards on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-04-30",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 69,
+        "activity_type": "new_material",
+        "quiz_score": 0.8,
+        "retention_rate": 0.75,
+        "notes": "Read official documentation on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-03",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 64,
+        "activity_type": "new_material",
+        "quiz_score": 0.84,
+        "retention_rate": 0.81,
+        "notes": "Completed learning path section for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 62,
+        "activity_type": "review",
+        "quiz_score": 0.78,
+        "retention_rate": 0.74,
+        "notes": "Went over quiz mistakes for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-05",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 55,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.81,
+        "notes": "Took short mock test on Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 64,
+        "activity_type": "review",
+        "quiz_score": 0.79,
+        "retention_rate": 0.72,
+        "notes": "Reviewed summary notes and cards on Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 62,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.78,
+        "notes": "Read official documentation on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 68,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.78,
+        "retention_rate": 0.7,
+        "notes": "Self-assessed skills for Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 60,
+        "activity_type": "new_material",
+        "quiz_score": 0.77,
+        "retention_rate": 0.72,
+        "notes": "Followed hands-on lab exercise for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 55,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.73,
+        "notes": "Read official documentation on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-17",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 66,
+        "activity_type": "new_material",
+        "quiz_score": 0.8,
+        "retention_rate": 0.75,
+        "notes": "Followed hands-on lab exercise for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-18",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 63,
+        "activity_type": "new_material",
+        "quiz_score": 0.84,
+        "retention_rate": 0.81,
+        "notes": "Followed hands-on lab exercise for Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 55,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.77,
+        "notes": "Took short mock test on Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 60,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.73,
+        "notes": "Reviewed summary notes and cards on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 70,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.79,
+        "notes": "Attempted practice questions on Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "dp203_m03",
+        "topic": "Optimize and Secure Data Systems",
+        "duration_minutes": 58,
+        "activity_type": "new_material",
+        "quiz_score": 0.78,
+        "retention_rate": 0.75,
+        "notes": "Followed hands-on lab exercise for Optimize and Secure Data Systems."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 61,
+        "activity_type": "review",
+        "quiz_score": 0.82,
+        "retention_rate": 0.75,
+        "notes": "Went over quiz mistakes for Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "dp203_m03",
+        "topic": "Optimize and Secure Data Systems",
+        "duration_minutes": 68,
+        "activity_type": "new_material",
+        "quiz_score": 0.75,
+        "retention_rate": 0.71,
+        "notes": "Followed hands-on lab exercise for Optimize and Secure Data Systems."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 22,
+      "total_study_hours": 22.8,
+      "avg_quiz_score": 0.8,
+      "avg_retention_rate": 0.75,
+      "consistency_score": 0.78,
+      "modules_started": 3,
+      "modules_completed": 3,
+      "streak_current_days": 4,
+      "streak_longest_days": 8
+    }
+  },
+  {
+    "employee_id": "emp_013",
+    "certification_target": "DP-203",
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 45,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.69,
+        "retention_rate": 0.62,
+        "notes": "Took short mock test on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-04-27",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 42,
+        "activity_type": "new_material",
+        "quiz_score": 0.68,
+        "retention_rate": 0.64,
+        "notes": "Completed learning path section for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 51,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.69,
+        "retention_rate": 0.62,
+        "notes": "Attempted practice questions on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "dp203_m02",
+        "topic": "Design and Develop Data Processing",
+        "duration_minutes": 52,
+        "activity_type": "new_material",
+        "quiz_score": 0.75,
+        "retention_rate": 0.67,
+        "notes": "Followed hands-on lab exercise for Design and Develop Data Processing."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 42,
+        "activity_type": "review",
+        "quiz_score": 0.74,
+        "retention_rate": 0.66,
+        "notes": "Reviewed summary notes and cards on Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "dp203_m01",
+        "topic": "Design and Implement Data Storage",
+        "duration_minutes": 53,
+        "activity_type": "new_material",
+        "quiz_score": 0.72,
+        "retention_rate": 0.65,
+        "notes": "Followed hands-on lab exercise for Design and Implement Data Storage."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "dp203_m03",
+        "topic": "Optimize and Secure Data Systems",
+        "duration_minutes": 49,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.74,
+        "retention_rate": 0.71,
+        "notes": "Attempted practice questions on Optimize and Secure Data Systems."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "dp203_m03",
+        "topic": "Optimize and Secure Data Systems",
+        "duration_minutes": 49,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.73,
+        "retention_rate": 0.68,
+        "notes": "Took short mock test on Optimize and Secure Data Systems."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 8,
+      "total_study_hours": 6.4,
+      "avg_quiz_score": 0.72,
+      "avg_retention_rate": 0.66,
+      "consistency_score": 0.46,
+      "modules_started": 3,
+      "modules_completed": 3,
+      "streak_current_days": 1,
+      "streak_longest_days": 4
+    }
+  },
+  {
+    "employee_id": "emp_014",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 50,
+        "activity_type": "review",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-22",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 46,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.72,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 56,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.8,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 46,
+        "activity_type": "new_material",
+        "quiz_score": 0.84,
+        "retention_rate": 0.76,
+        "notes": "Followed hands-on lab exercise for Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-27",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 55,
+        "activity_type": "review",
+        "quiz_score": 0.81,
+        "retention_rate": 0.75,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 52,
+        "activity_type": "review",
+        "quiz_score": 0.82,
+        "retention_rate": 0.75,
+        "notes": "Re-read key concepts of Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 60,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.8,
+        "notes": "Attempted practice questions on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 60,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.75,
+        "notes": "Followed hands-on lab exercise for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-05",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 49,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.74,
+        "notes": "Attempted practice questions on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 48,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.72,
+        "notes": "Completed learning path section for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 56,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.76,
+        "retention_rate": 0.7,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 56,
+        "activity_type": "new_material",
+        "quiz_score": 0.83,
+        "retention_rate": 0.76,
+        "notes": "Completed learning path section for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 58,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.79,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 52,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 45,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.77,
+        "retention_rate": 0.71,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 52,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.75,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 58,
+        "activity_type": "new_material",
+        "quiz_score": 0.77,
+        "retention_rate": 0.75,
+        "notes": "Followed hands-on lab exercise for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 47,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.77,
+        "notes": "Self-assessed skills for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 47,
+        "activity_type": "review",
+        "quiz_score": 0.75,
+        "retention_rate": 0.69,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m11",
+        "topic": "Develop Message-Based Solutions",
+        "duration_minutes": 58,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.78,
+        "notes": "Reviewed summary notes and cards on Develop Message-Based Solutions."
+      },
+      {
+        "date": "2026-05-29",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 45,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.71,
+        "notes": "Reviewed summary notes and cards on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 47,
+        "activity_type": "review",
+        "quiz_score": 0.8,
+        "retention_rate": 0.73,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Cosmos DB."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 22,
+      "total_study_hours": 19.1,
+      "avg_quiz_score": 0.81,
+      "avg_retention_rate": 0.75,
+      "consistency_score": 0.7,
+      "modules_started": 7,
+      "modules_completed": 7,
+      "streak_current_days": 2,
+      "streak_longest_days": 8
+    }
+  },
+  {
+    "employee_id": "emp_015",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 96,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.9,
+        "retention_rate": 0.86,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 97,
+        "activity_type": "new_material",
+        "quiz_score": 0.91,
+        "retention_rate": 0.87,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-22",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 91,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.87,
+        "retention_rate": 0.8,
+        "notes": "Self-assessed skills for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 98,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.91,
+        "retention_rate": 0.84,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 95,
+        "activity_type": "new_material",
+        "quiz_score": 0.93,
+        "retention_rate": 0.88,
+        "notes": "Read official documentation on Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 89,
+        "activity_type": "review",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-28",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 88,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.91,
+        "retention_rate": 0.88,
+        "notes": "Took short mock test on Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 95,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.86,
+        "retention_rate": 0.78,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-04-30",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 100,
+        "activity_type": "review",
+        "quiz_score": 0.91,
+        "retention_rate": 0.84,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 97,
+        "activity_type": "review",
+        "quiz_score": 0.88,
+        "retention_rate": 0.84,
+        "notes": "Went over quiz mistakes for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 99,
+        "activity_type": "new_material",
+        "quiz_score": 0.86,
+        "retention_rate": 0.83,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-04",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 87,
+        "activity_type": "review",
+        "quiz_score": 0.89,
+        "retention_rate": 0.81,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-05",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 91,
+        "activity_type": "new_material",
+        "quiz_score": 0.88,
+        "retention_rate": 0.86,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 95,
+        "activity_type": "review",
+        "quiz_score": 0.88,
+        "retention_rate": 0.84,
+        "notes": "Went over quiz mistakes for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 98,
+        "activity_type": "review",
+        "quiz_score": 0.88,
+        "retention_rate": 0.86,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 90,
+        "activity_type": "review",
+        "quiz_score": 0.92,
+        "retention_rate": 0.88,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 95,
+        "activity_type": "review",
+        "quiz_score": 0.86,
+        "retention_rate": 0.83,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 96,
+        "activity_type": "review",
+        "quiz_score": 0.89,
+        "retention_rate": 0.84,
+        "notes": "Re-read key concepts of Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 86,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.94,
+        "retention_rate": 0.89,
+        "notes": "Attempted practice questions on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 99,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.78,
+        "notes": "Read official documentation on Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 91,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.78,
+        "notes": "Followed hands-on lab exercise for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 92,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.87,
+        "retention_rate": 0.8,
+        "notes": "Self-assessed skills for Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-16",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 89,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.77,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-18",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 91,
+        "activity_type": "review",
+        "quiz_score": 0.89,
+        "retention_rate": 0.83,
+        "notes": "Reviewed summary notes and cards on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 96,
+        "activity_type": "new_material",
+        "quiz_score": 0.94,
+        "retention_rate": 0.89,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 98,
+        "activity_type": "review",
+        "quiz_score": 0.92,
+        "retention_rate": 0.85,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 93,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.86,
+        "retention_rate": 0.84,
+        "notes": "Self-assessed skills for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-22",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 95,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.88,
+        "retention_rate": 0.81,
+        "notes": "Attempted practice questions on Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 93,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.88,
+        "retention_rate": 0.85,
+        "notes": "Attempted practice questions on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 90,
+        "activity_type": "review",
+        "quiz_score": 0.85,
+        "retention_rate": 0.79,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 90,
+        "activity_type": "review",
+        "quiz_score": 0.92,
+        "retention_rate": 0.87,
+        "notes": "Went over quiz mistakes for Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 100,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.91,
+        "retention_rate": 0.85,
+        "notes": "Attempted practice questions on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-29",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 95,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.89,
+        "retention_rate": 0.83,
+        "notes": "Attempted practice questions on Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m09",
+        "topic": "Implement API Management",
+        "duration_minutes": 97,
+        "activity_type": "new_material",
+        "quiz_score": 0.88,
+        "retention_rate": 0.81,
+        "notes": "Followed hands-on lab exercise for Implement API Management."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 34,
+      "total_study_hours": 53.2,
+      "avg_quiz_score": 0.89,
+      "avg_retention_rate": 0.84,
+      "consistency_score": 0.81,
+      "modules_started": 9,
+      "modules_completed": 9,
+      "streak_current_days": 12,
+      "streak_longest_days": 20
+    }
+  },
+  {
+    "employee_id": "emp_016",
+    "certification_target": "DP-900",
+    "sessions": [],
+    "summary_stats": {
+      "total_sessions": 0,
+      "total_study_hours": 0.0,
+      "avg_quiz_score": 0.0,
+      "avg_retention_rate": 0.0,
+      "consistency_score": 0.0,
+      "modules_started": 0,
+      "modules_completed": 0,
+      "streak_current_days": 0,
+      "streak_longest_days": 0
+    }
+  },
+  {
+    "employee_id": "emp_017",
+    "certification_target": "AZ-900",
+    "sessions": [
+      {
+        "date": "2026-05-03",
+        "module_id": "az900_m01",
+        "topic": "Describe Cloud Concepts",
+        "duration_minutes": 33,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.58,
+        "retention_rate": 0.53,
+        "notes": "Took short mock test on Describe Cloud Concepts."
+      },
+      {
+        "date": "2026-05-16",
+        "module_id": "az900_m02",
+        "topic": "Describe Azure Architecture and Services",
+        "duration_minutes": 33,
+        "activity_type": "new_material",
+        "quiz_score": 0.63,
+        "retention_rate": 0.61,
+        "notes": "Followed hands-on lab exercise for Describe Azure Architecture and Services."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az900_m02",
+        "topic": "Describe Azure Architecture and Services",
+        "duration_minutes": 26,
+        "activity_type": "new_material",
+        "quiz_score": 0.56,
+        "retention_rate": 0.52,
+        "notes": "Followed hands-on lab exercise for Describe Azure Architecture and Services."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 3,
+      "total_study_hours": 1.5,
+      "avg_quiz_score": 0.59,
+      "avg_retention_rate": 0.55,
+      "consistency_score": 0.13,
+      "modules_started": 2,
+      "modules_completed": 0,
+      "streak_current_days": 0,
+      "streak_longest_days": 1
+    }
+  },
+  {
+    "employee_id": "emp_018",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 60,
+        "activity_type": "new_material",
+        "quiz_score": 0.85,
+        "retention_rate": 0.82,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 64,
+        "activity_type": "new_material",
+        "quiz_score": 0.78,
+        "retention_rate": 0.72,
+        "notes": "Completed learning path section for Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-25",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 64,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.7,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-26",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 62,
+        "activity_type": "review",
+        "quiz_score": 0.76,
+        "retention_rate": 0.73,
+        "notes": "Re-read key concepts of Implement Azure Functions."
+      },
+      {
+        "date": "2026-04-27",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 64,
+        "activity_type": "review",
+        "quiz_score": 0.76,
+        "retention_rate": 0.69,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-29",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 69,
+        "activity_type": "review",
+        "quiz_score": 0.8,
+        "retention_rate": 0.76,
+        "notes": "Went over quiz mistakes for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-30",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 62,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.79,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 67,
+        "activity_type": "review",
+        "quiz_score": 0.79,
+        "retention_rate": 0.77,
+        "notes": "Re-read key concepts of Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 69,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.76,
+        "retention_rate": 0.71,
+        "notes": "Attempted practice questions on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 64,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.79,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 63,
+        "activity_type": "new_material",
+        "quiz_score": 0.78,
+        "retention_rate": 0.76,
+        "notes": "Read official documentation on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 62,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.79,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 56,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.76,
+        "retention_rate": 0.7,
+        "notes": "Took short mock test on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-15",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 58,
+        "activity_type": "new_material",
+        "quiz_score": 0.81,
+        "retention_rate": 0.76,
+        "notes": "Completed learning path section for Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-16",
+        "module_id": "az204_m08",
+        "topic": "Troubleshoot Solutions by Using Metrics and Logs",
+        "duration_minutes": 62,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.84,
+        "retention_rate": 0.82,
+        "notes": "Took short mock test on Troubleshoot Solutions by Using Metrics and Logs."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 63,
+        "activity_type": "new_material",
+        "quiz_score": 0.82,
+        "retention_rate": 0.76,
+        "notes": "Read official documentation on Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 57,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.71,
+        "notes": "Read official documentation on Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m10",
+        "topic": "Develop Event-Based Solutions",
+        "duration_minutes": 69,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.78,
+        "retention_rate": 0.72,
+        "notes": "Attempted practice questions on Develop Event-Based Solutions."
+      },
+      {
+        "date": "2026-05-25",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 62,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.83,
+        "retention_rate": 0.79,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-27",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 56,
+        "activity_type": "review",
+        "quiz_score": 0.76,
+        "retention_rate": 0.7,
+        "notes": "Re-read key concepts of Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 68,
+        "activity_type": "review",
+        "quiz_score": 0.83,
+        "retention_rate": 0.76,
+        "notes": "Re-read key concepts of Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 70,
+        "activity_type": "new_material",
+        "quiz_score": 0.81,
+        "retention_rate": 0.75,
+        "notes": "Completed learning path section for Integrate Caching and Content Delivery Networks."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 22,
+      "total_study_hours": 23.2,
+      "avg_quiz_score": 0.8,
+      "avg_retention_rate": 0.75,
+      "consistency_score": 0.78,
+      "modules_started": 9,
+      "modules_completed": 9,
+      "streak_current_days": 4,
+      "streak_longest_days": 5
+    }
+  },
+  {
+    "employee_id": "emp_019",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-20",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 50,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.7,
+        "retention_rate": 0.67,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 47,
+        "activity_type": "review",
+        "quiz_score": 0.68,
+        "retention_rate": 0.63,
+        "notes": "Re-read key concepts of Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 43,
+        "activity_type": "review",
+        "quiz_score": 0.73,
+        "retention_rate": 0.66,
+        "notes": "Went over quiz mistakes for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 47,
+        "activity_type": "new_material",
+        "quiz_score": 0.72,
+        "retention_rate": 0.65,
+        "notes": "Followed hands-on lab exercise for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-05-06",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 53,
+        "activity_type": "new_material",
+        "quiz_score": 0.74,
+        "retention_rate": 0.71,
+        "notes": "Followed hands-on lab exercise for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 54,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.65,
+        "retention_rate": 0.58,
+        "notes": "Self-assessed skills for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 48,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.74,
+        "retention_rate": 0.68,
+        "notes": "Took short mock test on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-24",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 40,
+        "activity_type": "review",
+        "quiz_score": 0.69,
+        "retention_rate": 0.65,
+        "notes": "Re-read key concepts of Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-25",
+        "module_id": "az204_m11",
+        "topic": "Develop Message-Based Solutions",
+        "duration_minutes": 41,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.68,
+        "retention_rate": 0.65,
+        "notes": "Attempted practice questions on Develop Message-Based Solutions."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "az204_m10",
+        "topic": "Develop Event-Based Solutions",
+        "duration_minutes": 43,
+        "activity_type": "new_material",
+        "quiz_score": 0.72,
+        "retention_rate": 0.69,
+        "notes": "Completed learning path section for Develop Event-Based Solutions."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 10,
+      "total_study_hours": 7.8,
+      "avg_quiz_score": 0.7,
+      "avg_retention_rate": 0.66,
+      "consistency_score": 0.45,
+      "modules_started": 7,
+      "modules_completed": 5,
+      "streak_current_days": 1,
+      "streak_longest_days": 4
+    }
+  },
+  {
+    "employee_id": "emp_020",
+    "certification_target": "AZ-204",
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 58,
+        "activity_type": "new_material",
+        "quiz_score": 0.84,
+        "retention_rate": 0.81,
+        "notes": "Completed learning path section for Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-23",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 63,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.76,
+        "retention_rate": 0.71,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-24",
+        "module_id": "az204_m01",
+        "topic": "Implement Azure App Service Web Apps",
+        "duration_minutes": 67,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.75,
+        "notes": "Took short mock test on Implement Azure App Service Web Apps."
+      },
+      {
+        "date": "2026-04-27",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 66,
+        "activity_type": "new_material",
+        "quiz_score": 0.78,
+        "retention_rate": 0.75,
+        "notes": "Completed learning path section for Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-01",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 59,
+        "activity_type": "review",
+        "quiz_score": 0.83,
+        "retention_rate": 0.76,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-02",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 64,
+        "activity_type": "new_material",
+        "quiz_score": 0.83,
+        "retention_rate": 0.76,
+        "notes": "Read official documentation on Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-07",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 61,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.79,
+        "retention_rate": 0.73,
+        "notes": "Self-assessed skills for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-08",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 56,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.85,
+        "retention_rate": 0.78,
+        "notes": "Self-assessed skills for Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-10",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 56,
+        "activity_type": "review",
+        "quiz_score": 0.84,
+        "retention_rate": 0.78,
+        "notes": "Reviewed summary notes and cards on Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-11",
+        "module_id": "az204_m06",
+        "topic": "Implement Secure Cloud Solutions",
+        "duration_minutes": 67,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.78,
+        "notes": "Self-assessed skills for Implement Secure Cloud Solutions."
+      },
+      {
+        "date": "2026-05-12",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 69,
+        "activity_type": "review",
+        "quiz_score": 0.77,
+        "retention_rate": 0.7,
+        "notes": "Reviewed summary notes and cards on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-13",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 63,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.74,
+        "notes": "Took short mock test on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-14",
+        "module_id": "az204_m07",
+        "topic": "Integrate Caching and Content Delivery Networks",
+        "duration_minutes": 55,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.81,
+        "retention_rate": 0.78,
+        "notes": "Attempted practice questions on Integrate Caching and Content Delivery Networks."
+      },
+      {
+        "date": "2026-05-19",
+        "module_id": "az204_m02",
+        "topic": "Implement Azure Functions",
+        "duration_minutes": 70,
+        "activity_type": "new_material",
+        "quiz_score": 0.84,
+        "retention_rate": 0.76,
+        "notes": "Read official documentation on Implement Azure Functions."
+      },
+      {
+        "date": "2026-05-20",
+        "module_id": "az204_m05",
+        "topic": "Implement User Authentication and Authorization",
+        "duration_minutes": 60,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.8,
+        "retention_rate": 0.75,
+        "notes": "Took short mock test on Implement User Authentication and Authorization."
+      },
+      {
+        "date": "2026-05-23",
+        "module_id": "az204_m03",
+        "topic": "Develop Solutions that Use Azure Blob Storage",
+        "duration_minutes": 60,
+        "activity_type": "new_material",
+        "quiz_score": 0.83,
+        "retention_rate": 0.78,
+        "notes": "Followed hands-on lab exercise for Develop Solutions that Use Azure Blob Storage."
+      },
+      {
+        "date": "2026-05-26",
+        "module_id": "az204_m11",
+        "topic": "Develop Message-Based Solutions",
+        "duration_minutes": 59,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.82,
+        "retention_rate": 0.79,
+        "notes": "Attempted practice questions on Develop Message-Based Solutions."
+      },
+      {
+        "date": "2026-05-28",
+        "module_id": "az204_m04",
+        "topic": "Develop Solutions that Use Azure Cosmos DB",
+        "duration_minutes": 57,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.77,
+        "retention_rate": 0.7,
+        "notes": "Self-assessed skills for Develop Solutions that Use Azure Cosmos DB."
+      },
+      {
+        "date": "2026-05-30",
+        "module_id": "az204_m11",
+        "topic": "Develop Message-Based Solutions",
+        "duration_minutes": 70,
+        "activity_type": "practice_quiz",
+        "quiz_score": 0.78,
+        "retention_rate": 0.76,
+        "notes": "Self-assessed skills for Develop Message-Based Solutions."
+      },
+      {
+        "date": "2026-05-31",
+        "module_id": "az204_m12",
+        "topic": "Configure Instrumentation in Azure Monitor",
+        "duration_minutes": 55,
+        "activity_type": "new_material",
+        "quiz_score": 0.76,
+        "retention_rate": 0.72,
+        "notes": "Completed learning path section for Configure Instrumentation in Azure Monitor."
+      }
+    ],
+    "summary_stats": {
+      "total_sessions": 20,
+      "total_study_hours": 20.6,
+      "avg_quiz_score": 0.81,
+      "avg_retention_rate": 0.75,
+      "consistency_score": 0.7,
+      "modules_started": 9,
+      "modules_completed": 9,
+      "streak_current_days": 4,
+      "streak_longest_days": 5
+    }
+  }
+]

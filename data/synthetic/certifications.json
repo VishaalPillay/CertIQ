@@ -1,0 +1,528 @@
+[
+  {
+    "id": "cert_az204",
+    "code": "AZ-204",
+    "name": "Developing Solutions for Microsoft Azure",
+    "level": "associate",
+    "role_alignment": ["Cloud Engineer", "Backend Developer", "Full-Stack Developer"],
+    "prerequisites": ["AZ-900"],
+    "prerequisite_type": "recommended",
+    "total_estimated_hours": 40.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-developer/",
+    "renewal_period_months": 12,
+    "skills_measured": [
+      {"domain": "Develop Azure compute solutions", "weight": 0.25},
+      {"domain": "Develop for Azure storage", "weight": 0.20},
+      {"domain": "Implement Azure security", "weight": 0.20},
+      {"domain": "Monitor, troubleshoot, and optimize Azure solutions", "weight": 0.15},
+      {"domain": "Connect to and consume Azure services and third-party services", "weight": 0.20}
+    ],
+    "modules": [
+      {
+        "module_id": "az204_m01",
+        "title": "Implement Azure App Service Web Apps",
+        "estimated_hours": 4.0,
+        "skills": ["Create Azure App Service web apps", "Configure web app settings", "Scale apps", "Configure deployment slots"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 10
+      },
+      {
+        "module_id": "az204_m02",
+        "title": "Implement Azure Functions",
+        "estimated_hours": 4.0,
+        "skills": ["Create Azure Functions", "Configure triggers and bindings", "Implement Durable Functions", "Optimize cold starts"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 10
+      },
+      {
+        "module_id": "az204_m03",
+        "title": "Develop Solutions that Use Azure Blob Storage",
+        "estimated_hours": 3.0,
+        "skills": ["Manage blob container operations", "Configure blob access tiers", "Set up lifecycle management policies", "Implement SAS tokens"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 8
+      },
+      {
+        "module_id": "az204_m04",
+        "title": "Develop Solutions that Use Azure Cosmos DB",
+        "estimated_hours": 4.0,
+        "skills": ["Select partition keys", "Configure consistency levels", "Implement stored procedures and triggers", "Use Change Feed"],
+        "bloom_level": "analyze",
+        "exam_weight_percentage": 10
+      },
+      {
+        "module_id": "az204_m05",
+        "title": "Implement User Authentication and Authorization",
+        "estimated_hours": 4.0,
+        "skills": ["Configure system-assigned managed identity", "Configure user-assigned managed identity", "Implement Microsoft Identity Platform", "Use MSAL for authentication"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 10
+      },
+      {
+        "module_id": "az204_m06",
+        "title": "Implement Secure Cloud Solutions",
+        "estimated_hours": 3.0,
+        "skills": ["Manage secrets using Key Vault", "Implement App Configuration", "Configure access policies in Key Vault"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 10
+      },
+      {
+        "module_id": "az204_m07",
+        "title": "Integrate Caching and Content Delivery Networks",
+        "estimated_hours": 2.0,
+        "skills": ["Configure Azure Cache for Redis", "Implement Redis data patterns", "Configure CDN profiles and endpoints", "Manage cache invalidation"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 5
+      },
+      {
+        "module_id": "az204_m08",
+        "title": "Troubleshoot Solutions by Using Metrics and Logs",
+        "estimated_hours": 3.0,
+        "skills": ["Configure Application Insights", "Query log data using KQL", "Set up alert rules", "Analyze distributed tracing"],
+        "bloom_level": "analyze",
+        "exam_weight_percentage": 5
+      },
+      {
+        "module_id": "az204_m09",
+        "title": "Implement API Management",
+        "estimated_hours": 3.0,
+        "skills": ["Create API Management instances", "Configure API inbound/outbound policies", "Secure APIs using subscriptions and OAuth"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 10
+      },
+      {
+        "module_id": "az204_m10",
+        "title": "Develop Event-Based Solutions",
+        "estimated_hours": 3.0,
+        "skills": ["Implement Event Grid solutions", "Configure Event Hubs for data ingestion", "Set up event schemas"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 6
+      },
+      {
+        "module_id": "az204_m11",
+        "title": "Develop Message-Based Solutions",
+        "estimated_hours": 3.0,
+        "skills": ["Implement Service Bus queues and topics", "Configure Queue Storage operations", "Implement dead-lettering"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 6
+      },
+      {
+        "module_id": "az204_m12",
+        "title": "Configure Instrumentation in Azure Monitor",
+        "estimated_hours": 4.0,
+        "skills": ["Implement autoscale rules", "Set up availability web tests", "Analyze Azure Log Analytics workspaces"],
+        "bloom_level": "evaluate",
+        "exam_weight_percentage": 7
+      }
+    ]
+  },
+  {
+    "id": "cert_az900",
+    "code": "AZ-900",
+    "name": "Microsoft Azure Fundamentals",
+    "level": "fundamentals",
+    "role_alignment": ["All Technical Roles", "Product Managers", "Business Analysts"],
+    "prerequisites": [],
+    "prerequisite_type": "none",
+    "total_estimated_hours": 12.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-fundamentals/",
+    "renewal_period_months": 0,
+    "skills_measured": [
+      {"domain": "Describe cloud concepts", "weight": 0.30},
+      {"domain": "Describe Azure architecture and services", "weight": 0.40},
+      {"domain": "Describe Azure management and governance", "weight": 0.30}
+    ],
+    "modules": [
+      {
+        "module_id": "az900_m01",
+        "title": "Describe Cloud Concepts",
+        "estimated_hours": 3.0,
+        "skills": ["Define cloud computing", "Shared responsibility model", "Cloud service models", "CapEx vs OpEx"],
+        "bloom_level": "remember",
+        "exam_weight_percentage": 30
+      },
+      {
+        "module_id": "az900_m02",
+        "title": "Describe Azure Architecture and Services",
+        "estimated_hours": 5.0,
+        "skills": ["Azure physical infrastructure", "Azure compute and networking", "Azure storage", "Azure databases"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 40
+      },
+      {
+        "module_id": "az900_m03",
+        "title": "Describe Azure Management and Governance",
+        "estimated_hours": 4.0,
+        "skills": ["Cost management in Azure", "Governance and compliance", "Azure management tools", "Azure monitoring tools"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 30
+      }
+    ]
+  },
+  {
+    "id": "cert_az104",
+    "code": "AZ-104",
+    "name": "Microsoft Azure Administrator",
+    "level": "associate",
+    "role_alignment": ["SysAdmin", "Cloud Engineer", "Operations Specialist"],
+    "prerequisites": ["AZ-900"],
+    "prerequisite_type": "recommended",
+    "total_estimated_hours": 35.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-administrator/",
+    "renewal_period_months": 12,
+    "skills_measured": [
+      {"domain": "Manage Azure identities and governance", "weight": 0.20},
+      {"domain": "Implement and manage storage", "weight": 0.20},
+      {"domain": "Deploy and manage Azure compute resources", "weight": 0.25},
+      {"domain": "Configure and manage virtual networking", "weight": 0.20},
+      {"domain": "Monitor and back up Azure resources", "weight": 0.15}
+    ],
+    "modules": [
+      {
+        "module_id": "az104_m01",
+        "title": "Configure Microsoft Entra ID",
+        "estimated_hours": 7.0,
+        "skills": ["Manage Entra users and groups", "Configure self-service password reset", "Manage guest accounts"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 20
+      },
+      {
+        "module_id": "az104_m02",
+        "title": "Manage Storage in Azure",
+        "estimated_hours": 7.0,
+        "skills": ["Create storage accounts", "Configure network access", "Manage access keys and SAS"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 20
+      },
+      {
+        "module_id": "az104_m03",
+        "title": "Deploy Virtual Machines",
+        "estimated_hours": 10.0,
+        "skills": ["Configure VM size and storage", "Set up high availability", "Deploy Virtual Machine Scale Sets"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 25
+      },
+      {
+        "module_id": "az104_m04",
+        "title": "Configure Virtual Networks",
+        "estimated_hours": 11.0,
+        "skills": ["Create virtual networks and subnets", "Configure public and private IP addresses", "Set up NSGs and route tables"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 35
+      }
+    ]
+  },
+  {
+    "id": "cert_az305",
+    "code": "AZ-305",
+    "name": "Designing Microsoft Azure Infrastructure Solutions",
+    "level": "expert",
+    "role_alignment": ["Solutions Architect", "Principal Cloud Engineer"],
+    "prerequisites": ["AZ-104"],
+    "prerequisite_type": "required",
+    "total_estimated_hours": 30.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/",
+    "renewal_period_months": 12,
+    "skills_measured": [
+      {"domain": "Design identity, governance, and monitoring solutions", "weight": 0.30},
+      {"domain": "Design data storage solutions", "weight": 0.25},
+      {"domain": "Design business continuity solutions", "weight": 0.15},
+      {"domain": "Design infrastructure solutions", "weight": 0.30}
+    ],
+    "modules": [
+      {
+        "module_id": "az305_m01",
+        "title": "Design Governance and Identity Solutions",
+        "estimated_hours": 10.0,
+        "skills": ["Design management group and subscription hierarchies", "Design Azure RBAC model", "Design Entra ID protection policies"],
+        "bloom_level": "create",
+        "exam_weight_percentage": 30
+      },
+      {
+        "module_id": "az305_m02",
+        "title": "Design Data Storage Solutions",
+        "estimated_hours": 10.0,
+        "skills": ["Design Cosmos DB partitioning", "Design relational database solutions", "Design non-relational blob storage solutions"],
+        "bloom_level": "create",
+        "exam_weight_percentage": 30
+      },
+      {
+        "module_id": "az305_m03",
+        "title": "Design Infrastructure Architecture",
+        "estimated_hours": 10.0,
+        "skills": ["Design compute architecture", "Design application integration architecture", "Design network topology"],
+        "bloom_level": "create",
+        "exam_weight_percentage": 40
+      }
+    ]
+  },
+  {
+    "id": "cert_ai900",
+    "code": "AI-900",
+    "name": "Microsoft Azure AI Fundamentals",
+    "level": "fundamentals",
+    "role_alignment": ["All Technical Roles", "Product Managers", "Data Analysts"],
+    "prerequisites": [],
+    "prerequisite_type": "none",
+    "total_estimated_hours": 10.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/",
+    "renewal_period_months": 0,
+    "skills_measured": [
+      {"domain": "Describe AI workloads and considerations", "weight": 0.20},
+      {"domain": "Describe fundamental principles of machine learning on Azure", "weight": 0.35},
+      {"domain": "Describe features of computer vision workloads on Azure", "weight": 0.20},
+      {"domain": "Describe features of Natural Language Processing workloads on Azure", "weight": 0.25}
+    ],
+    "modules": [
+      {
+        "module_id": "ai900_m01",
+        "title": "Describe AI Workloads and Considerations",
+        "estimated_hours": 3.0,
+        "skills": ["Identify common AI scenarios", "Responsible AI principles"],
+        "bloom_level": "remember",
+        "exam_weight_percentage": 20
+      },
+      {
+        "module_id": "ai900_m02",
+        "title": "Describe ML Concepts on Azure",
+        "estimated_hours": 4.0,
+        "skills": ["Explain regression, classification, clustering", "Azure Machine Learning workspace features"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 35
+      },
+      {
+        "module_id": "ai900_m03",
+        "title": "Describe Cognitive Services",
+        "estimated_hours": 3.0,
+        "skills": ["Computer Vision on Azure", "NLP on Azure", "Azure OpenAI capabilities"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 45
+      }
+    ]
+  },
+  {
+    "id": "cert_ai102",
+    "code": "AI-102",
+    "name": "Designing and Implementing a Microsoft Azure AI Solution",
+    "level": "associate",
+    "role_alignment": ["AI Engineer", "Software Engineer"],
+    "prerequisites": ["AI-900"],
+    "prerequisite_type": "recommended",
+    "total_estimated_hours": 30.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/",
+    "renewal_period_months": 12,
+    "skills_measured": [
+      {"domain": "Prepare for and deploy Azure AI services", "weight": 0.15},
+      {"domain": "Implement computer vision solutions", "weight": 0.20},
+      {"domain": "Implement natural language processing solutions", "weight": 0.30},
+      {"domain": "Implement knowledge mining and document intelligence solutions", "weight": 0.15},
+      {"domain": "Implement generative AI solutions", "weight": 0.20}
+    ],
+    "modules": [
+      {
+        "module_id": "ai102_m01",
+        "title": "Prepare and Deploy Azure AI Services",
+        "estimated_hours": 6.0,
+        "skills": ["Create Azure AI resources", "Configure secure API access", "Configure diagnostic logging"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 15
+      },
+      {
+        "module_id": "ai102_m02",
+        "title": "Implement NLP Solutions",
+        "estimated_hours": 12.0,
+        "skills": ["Analyze text using Language service", "Translate text", "Implement conversational language understanding"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 30
+      },
+      {
+        "module_id": "ai102_m03",
+        "title": "Implement Generative AI Solutions",
+        "estimated_hours": 12.0,
+        "skills": ["Deploy Azure OpenAI models", "Configure system messages", "Use Azure OpenAI SDK for completions"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 35
+      }
+    ]
+  },
+  {
+    "id": "cert_dp900",
+    "code": "DP-900",
+    "name": "Microsoft Azure Data Fundamentals",
+    "level": "fundamentals",
+    "role_alignment": ["Data Analyst", "Data Engineer", "Database Administrator"],
+    "prerequisites": [],
+    "prerequisite_type": "none",
+    "total_estimated_hours": 10.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/",
+    "renewal_period_months": 0,
+    "skills_measured": [
+      {"domain": "Describe core data concepts", "weight": 0.30},
+      {"domain": "Describe relational data on Azure", "weight": 0.25},
+      {"domain": "Describe non-relational data on Azure", "weight": 0.25},
+      {"domain": "Describe analytics workloads on Azure", "weight": 0.20}
+    ],
+    "modules": [
+      {
+        "module_id": "dp900_m01",
+        "title": "Describe Core Data Concepts",
+        "estimated_hours": 3.0,
+        "skills": ["Define structured, semi-structured, and unstructured data", "Describe common data ingestion paths"],
+        "bloom_level": "remember",
+        "exam_weight_percentage": 30
+      },
+      {
+        "module_id": "dp900_m02",
+        "title": "Describe Relational and Non-Relational Services",
+        "estimated_hours": 4.0,
+        "skills": ["Azure SQL offerings", "Cosmos DB API options", "Azure Storage blob and table storage"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 50
+      },
+      {
+        "module_id": "dp900_m03",
+        "title": "Describe Modern Data Warehousing",
+        "estimated_hours": 3.0,
+        "skills": ["Describe Azure Synapse Analytics", "Describe Azure Databricks", "Describe Microsoft Fabric"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 20
+      }
+    ]
+  },
+  {
+    "id": "cert_dp203",
+    "code": "DP-203",
+    "name": "Data Engineering on Microsoft Azure",
+    "level": "associate",
+    "role_alignment": ["Data Engineer", "Database Administrator"],
+    "prerequisites": ["DP-900"],
+    "prerequisite_type": "recommended",
+    "total_estimated_hours": 35.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/azure-data-engineer/",
+    "renewal_period_months": 12,
+    "skills_measured": [
+      {"domain": "Design and implement data storage", "weight": 0.35},
+      {"domain": "Design and develop data processing", "weight": 0.35},
+      {"domain": "Design and implement data security", "weight": 0.15},
+      {"domain": "Monitor and optimize data storage and data processing", "weight": 0.15}
+    ],
+    "modules": [
+      {
+        "module_id": "dp203_m01",
+        "title": "Design and Implement Data Storage",
+        "estimated_hours": 12.0,
+        "skills": ["Implement partition strategy", "Configure Azure Data Lake Storage Gen2", "Design Delta Lake table paths"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 35
+      },
+      {
+        "module_id": "dp203_m02",
+        "title": "Design and Develop Data Processing",
+        "estimated_hours": 13.0,
+        "skills": ["Develop Data Factory pipelines", "Develop Spark notebooks in Databricks", "Configure Stream Analytics jobs"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 35
+      },
+      {
+        "module_id": "dp203_m03",
+        "title": "Optimize and Secure Data Systems",
+        "estimated_hours": 10.0,
+        "skills": ["Manage database compute scaling", "Enforce column/row level security", "Encrypt data in transit and at rest"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 30
+      }
+    ]
+  },
+  {
+    "id": "cert_sc900",
+    "code": "SC-900",
+    "name": "Microsoft Security, Compliance, and Identity Fundamentals",
+    "level": "fundamentals",
+    "role_alignment": ["Security Analyst", "IT Admin", "Compliance Officer"],
+    "prerequisites": [],
+    "prerequisite_type": "none",
+    "total_estimated_hours": 8.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/",
+    "renewal_period_months": 0,
+    "skills_measured": [
+      {"domain": "Describe the concepts of security, compliance, and identity", "weight": 0.15},
+      {"domain": "Describe the capabilities of Microsoft Entra", "weight": 0.25},
+      {"domain": "Describe the capabilities of Microsoft security solutions", "weight": 0.35},
+      {"domain": "Describe the compliance management capabilities of Microsoft", "weight": 0.25}
+    ],
+    "modules": [
+      {
+        "module_id": "sc900_m01",
+        "title": "Describe Core Security and Entra Capabilities",
+        "estimated_hours": 4.0,
+        "skills": ["Zero Trust principles", "Shared responsibility in security", "Microsoft Entra ID authentication methods"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 40
+      },
+      {
+        "module_id": "sc900_m02",
+        "title": "Describe Microsoft Security Solutions",
+        "estimated_hours": 4.0,
+        "skills": ["Defender for Cloud capabilities", "Microsoft Sentinel core purpose", "Microsoft Purview information protection"],
+        "bloom_level": "understand",
+        "exam_weight_percentage": 60
+      }
+    ]
+  },
+  {
+    "id": "cert_sc200",
+    "code": "SC-200",
+    "name": "Microsoft Security Operations Analyst",
+    "level": "associate",
+    "role_alignment": ["Security Operations Analyst", "SOC Engineer"],
+    "prerequisites": ["SC-900"],
+    "prerequisite_type": "recommended",
+    "total_estimated_hours": 28.0,
+    "pass_score": 700,
+    "max_score": 1000,
+    "exam_url": "https://learn.microsoft.com/credentials/certifications/security-operations-analyst/",
+    "renewal_period_months": 12,
+    "skills_measured": [
+      {"domain": "Mitigate threats using Microsoft Defender for Endpoint", "weight": 0.25},
+      {"domain": "Mitigate threats using Microsoft Defender for Cloud", "weight": 0.20},
+      {"domain": "Mitigate threats using Microsoft Sentinel", "weight": 0.35},
+      {"domain": "Configure advanced threat protection solutions", "weight": 0.20}
+    ],
+    "modules": [
+      {
+        "module_id": "sc200_m01",
+        "title": "Mitigate Threats using Microsoft Defender",
+        "estimated_hours": 12.0,
+        "skills": ["Configure Defender onboarding settings", "Remediate endpoint alerts", "Implement Defender for Cloud policies"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 45
+      },
+      {
+        "module_id": "sc200_m02",
+        "title": "Manage SIEM and SOAR using Microsoft Sentinel",
+        "estimated_hours": 16.0,
+        "skills": ["Connect data sources to Sentinel", "Write KQL queries for detection rules", "Implement playbooks for auto-remediation"],
+        "bloom_level": "apply",
+        "exam_weight_percentage": 55
+      }
+    ]
+  }
+]

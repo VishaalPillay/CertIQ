@@ -1,0 +1,562 @@
+[
+  {
+    "id": "emp_001",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@contoso.com",
+    "role": "Senior Cloud Engineer",
+    "team": "Cloud Engineering",
+    "manager_id": "emp_005",
+    "is_manager": false,
+    "current_certifications": ["AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.6,
+      "azure_functions": 0.4,
+      "azure_cosmos_db": 0.3,
+      "azure_storage": 0.5,
+      "azure_api_management": 0.2
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 45,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 22.0,
+    "avg_study_hours_per_week": 3.5,
+    "risk_profile": "struggling",
+    "hire_date": "2024-08-15",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_002",
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta@contoso.com",
+    "role": "Cloud Engineer",
+    "team": "Cloud Engineering",
+    "manager_id": "emp_005",
+    "is_manager": false,
+    "current_certifications": ["AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.7,
+      "azure_functions": 0.6,
+      "azure_cosmos_db": 0.5,
+      "azure_storage": 0.7,
+      "azure_api_management": 0.4
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 60,
+      "learning_style": "visual"
+    },
+    "weekly_meeting_hours": 12.5,
+    "avg_study_hours_per_week": 6.0,
+    "risk_profile": "on_track",
+    "hire_date": "2023-11-10",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_003",
+    "name": "Neha Patel",
+    "email": "neha.patel@contoso.com",
+    "role": "Cloud Engineer",
+    "team": "Cloud Engineering",
+    "manager_id": "emp_005",
+    "is_manager": false,
+    "current_certifications": [],
+    "target_certifications": ["AZ-900", "AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.3,
+      "azure_functions": 0.2,
+      "azure_cosmos_db": 0.1,
+      "azure_storage": 0.3,
+      "azure_api_management": 0.1
+    },
+    "learning_preferences": {
+      "preferred_study_time": "afternoon",
+      "session_duration_preference_minutes": 30,
+      "learning_style": "reading"
+    },
+    "weekly_meeting_hours": 28.0,
+    "avg_study_hours_per_week": 1.5,
+    "risk_profile": "at_risk",
+    "hire_date": "2025-02-20",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_004",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@contoso.com",
+    "role": "Cloud Engineer",
+    "team": "Cloud Engineering",
+    "manager_id": "emp_005",
+    "is_manager": false,
+    "current_certifications": ["AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.6,
+      "azure_functions": 0.5,
+      "azure_cosmos_db": 0.4,
+      "azure_storage": 0.6,
+      "azure_api_management": 0.5
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 45,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 14.0,
+    "avg_study_hours_per_week": 5.5,
+    "risk_profile": "on_track",
+    "hire_date": "2024-05-12",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_005",
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@contoso.com",
+    "role": "Lead Cloud Architect",
+    "team": "Cloud Engineering",
+    "manager_id": null,
+    "is_manager": true,
+    "current_certifications": ["AZ-900", "AZ-104", "AZ-305"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.9,
+      "azure_functions": 0.8,
+      "azure_cosmos_db": 0.9,
+      "azure_storage": 0.9,
+      "azure_api_management": 0.8
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 90,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 8.0,
+    "avg_study_hours_per_week": 8.5,
+    "risk_profile": "excelling",
+    "hire_date": "2021-03-01",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_006",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@contoso.com",
+    "role": "Associate Cloud Engineer",
+    "team": "Cloud Engineering",
+    "manager_id": "emp_005",
+    "is_manager": false,
+    "current_certifications": [],
+    "target_certifications": ["AZ-900"],
+    "skill_levels": {
+      "azure_app_service": 0.1,
+      "azure_functions": 0.1,
+      "azure_cosmos_db": 0.0,
+      "azure_storage": 0.2,
+      "azure_api_management": 0.0
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 45,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 18.0,
+    "avg_study_hours_per_week": 0.0,
+    "risk_profile": "new_starter",
+    "hire_date": "2026-05-15",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_007",
+    "name": "Kabir Joshi",
+    "email": "kabir.joshi@contoso.com",
+    "role": "Security Analyst",
+    "team": "Security",
+    "manager_id": "emp_010",
+    "is_manager": false,
+    "current_certifications": ["SC-900"],
+    "target_certifications": ["SC-200"],
+    "skill_levels": {
+      "azure_app_service": 0.4,
+      "azure_functions": 0.3,
+      "azure_cosmos_db": 0.2,
+      "azure_storage": 0.4,
+      "azure_api_management": 0.3
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 40,
+      "learning_style": "reading"
+    },
+    "weekly_meeting_hours": 19.5,
+    "avg_study_hours_per_week": 3.0,
+    "risk_profile": "struggling",
+    "hire_date": "2024-09-01",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_008",
+    "name": "Diya Iyer",
+    "email": "diya.iyer@contoso.com",
+    "role": "Senior Security Engineer",
+    "team": "Security",
+    "manager_id": "emp_010",
+    "is_manager": false,
+    "current_certifications": ["SC-900", "SC-200", "AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.8,
+      "azure_functions": 0.7,
+      "azure_cosmos_db": 0.6,
+      "azure_storage": 0.8,
+      "azure_api_management": 0.7
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 75,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 9.5,
+    "avg_study_hours_per_week": 9.0,
+    "risk_profile": "excelling",
+    "hire_date": "2022-06-15",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_009",
+    "name": "Arjun Nair",
+    "email": "arjun.nair@contoso.com",
+    "role": "Security Engineer",
+    "team": "Security",
+    "manager_id": "emp_010",
+    "is_manager": false,
+    "current_certifications": [],
+    "target_certifications": ["SC-900"],
+    "skill_levels": {
+      "azure_app_service": 0.3,
+      "azure_functions": 0.2,
+      "azure_cosmos_db": 0.1,
+      "azure_storage": 0.4,
+      "azure_api_management": 0.2
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 30,
+      "learning_style": "visual"
+    },
+    "weekly_meeting_hours": 26.5,
+    "avg_study_hours_per_week": 1.2,
+    "risk_profile": "at_risk",
+    "hire_date": "2025-01-10",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_010",
+    "name": "Aditya Verma",
+    "email": "aditya.verma@contoso.com",
+    "role": "Lead Security Engineer",
+    "team": "Security",
+    "manager_id": null,
+    "is_manager": true,
+    "current_certifications": ["SC-900", "SC-200"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.6,
+      "azure_functions": 0.5,
+      "azure_cosmos_db": 0.4,
+      "azure_storage": 0.6,
+      "azure_api_management": 0.7
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 60,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 13.0,
+    "avg_study_hours_per_week": 5.0,
+    "risk_profile": "on_track",
+    "hire_date": "2023-04-18",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_011",
+    "name": "Pooja Reddy",
+    "email": "pooja.reddy@contoso.com",
+    "role": "Security Engineer",
+    "team": "Security",
+    "manager_id": "emp_010",
+    "is_manager": false,
+    "current_certifications": ["SC-900"],
+    "target_certifications": ["SC-200"],
+    "skill_levels": {
+      "azure_app_service": 0.5,
+      "azure_functions": 0.4,
+      "azure_cosmos_db": 0.4,
+      "azure_storage": 0.5,
+      "azure_api_management": 0.5
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 45,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 14.5,
+    "avg_study_hours_per_week": 6.5,
+    "risk_profile": "on_track",
+    "hire_date": "2024-02-14",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_012",
+    "name": "Karan Malhotra",
+    "email": "karan.malhotra@contoso.com",
+    "role": "Data Engineer",
+    "team": "Data Platform",
+    "manager_id": "emp_015",
+    "is_manager": false,
+    "current_certifications": ["DP-900"],
+    "target_certifications": ["DP-203"],
+    "skill_levels": {
+      "azure_app_service": 0.5,
+      "azure_functions": 0.4,
+      "azure_cosmos_db": 0.6,
+      "azure_storage": 0.6,
+      "azure_api_management": 0.3
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 60,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 11.5,
+    "avg_study_hours_per_week": 7.0,
+    "risk_profile": "on_track",
+    "hire_date": "2023-08-20",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_013",
+    "name": "Ishaan Sen",
+    "email": "ishaan.sen@contoso.com",
+    "role": "Senior Data Analyst",
+    "team": "Data Platform",
+    "manager_id": "emp_015",
+    "is_manager": false,
+    "current_certifications": ["DP-900"],
+    "target_certifications": ["DP-203"],
+    "skill_levels": {
+      "azure_app_service": 0.4,
+      "azure_functions": 0.3,
+      "azure_cosmos_db": 0.5,
+      "azure_storage": 0.5,
+      "azure_api_management": 0.2
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 45,
+      "learning_style": "reading"
+    },
+    "weekly_meeting_hours": 18.5,
+    "avg_study_hours_per_week": 3.8,
+    "risk_profile": "struggling",
+    "hire_date": "2024-06-10",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_014",
+    "name": "Riya Bose",
+    "email": "riya.bose@contoso.com",
+    "role": "Data Engineer",
+    "team": "Data Platform",
+    "manager_id": "emp_015",
+    "is_manager": false,
+    "current_certifications": ["DP-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.6,
+      "azure_functions": 0.5,
+      "azure_cosmos_db": 0.6,
+      "azure_storage": 0.6,
+      "azure_api_management": 0.4
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 50,
+      "learning_style": "visual"
+    },
+    "weekly_meeting_hours": 15.0,
+    "avg_study_hours_per_week": 5.8,
+    "risk_profile": "on_track",
+    "hire_date": "2024-03-05",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_015",
+    "name": "Sai Prasad",
+    "email": "sai.prasad@contoso.com",
+    "role": "Principal Data Architect",
+    "team": "Data Platform",
+    "manager_id": null,
+    "is_manager": true,
+    "current_certifications": ["DP-900", "DP-203", "AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.7,
+      "azure_functions": 0.7,
+      "azure_cosmos_db": 0.9,
+      "azure_storage": 0.9,
+      "azure_api_management": 0.6
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 90,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 7.5,
+    "avg_study_hours_per_week": 8.0,
+    "risk_profile": "excelling",
+    "hire_date": "2020-10-15",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_016",
+    "name": "Meera Deshmukh",
+    "email": "meera.deshmukh@contoso.com",
+    "role": "Junior Data Engineer",
+    "team": "Data Platform",
+    "manager_id": "emp_015",
+    "is_manager": false,
+    "current_certifications": [],
+    "target_certifications": ["DP-900"],
+    "skill_levels": {
+      "azure_app_service": 0.1,
+      "azure_functions": 0.0,
+      "azure_cosmos_db": 0.2,
+      "azure_storage": 0.2,
+      "azure_api_management": 0.0
+    },
+    "learning_preferences": {
+      "preferred_study_time": "afternoon",
+      "session_duration_preference_minutes": 30,
+      "learning_style": "visual"
+    },
+    "weekly_meeting_hours": 16.0,
+    "avg_study_hours_per_week": 0.0,
+    "risk_profile": "new_starter",
+    "hire_date": "2026-05-20",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_017",
+    "name": "Devendra Mishra",
+    "email": "devendra.mishra@contoso.com",
+    "role": "DevOps Engineer",
+    "team": "DevOps",
+    "manager_id": "emp_020",
+    "is_manager": false,
+    "current_certifications": [],
+    "target_certifications": ["AZ-900", "AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.4,
+      "azure_functions": 0.3,
+      "azure_cosmos_db": 0.2,
+      "azure_storage": 0.3,
+      "azure_api_management": 0.2
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 30,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 29.0,
+    "avg_study_hours_per_week": 1.0,
+    "risk_profile": "at_risk",
+    "hire_date": "2024-11-05",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_018",
+    "name": "Kriti Saxena",
+    "email": "kriti.saxena@contoso.com",
+    "role": "Senior DevOps Engineer",
+    "team": "DevOps",
+    "manager_id": "emp_020",
+    "is_manager": false,
+    "current_certifications": ["AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.7,
+      "azure_functions": 0.6,
+      "azure_cosmos_db": 0.5,
+      "azure_storage": 0.7,
+      "azure_api_management": 0.6
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 60,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 11.0,
+    "avg_study_hours_per_week": 7.5,
+    "risk_profile": "on_track",
+    "hire_date": "2023-01-25",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_019",
+    "name": "Rahul Jain",
+    "email": "rahul.jain@contoso.com",
+    "role": "DevOps Engineer",
+    "team": "DevOps",
+    "manager_id": "emp_020",
+    "is_manager": false,
+    "current_certifications": ["AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.5,
+      "azure_functions": 0.4,
+      "azure_cosmos_db": 0.3,
+      "azure_storage": 0.5,
+      "azure_api_management": 0.3
+    },
+    "learning_preferences": {
+      "preferred_study_time": "evening",
+      "session_duration_preference_minutes": 45,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 21.5,
+    "avg_study_hours_per_week": 3.2,
+    "risk_profile": "struggling",
+    "hire_date": "2024-07-19",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "id": "emp_020",
+    "name": "Sanjay Kumar",
+    "email": "sanjay.kumar@contoso.com",
+    "role": "DevOps Manager",
+    "team": "DevOps",
+    "manager_id": null,
+    "is_manager": true,
+    "current_certifications": ["AZ-900"],
+    "target_certifications": ["AZ-204"],
+    "skill_levels": {
+      "azure_app_service": 0.6,
+      "azure_functions": 0.5,
+      "azure_cosmos_db": 0.4,
+      "azure_storage": 0.6,
+      "azure_api_management": 0.5
+    },
+    "learning_preferences": {
+      "preferred_study_time": "morning",
+      "session_duration_preference_minutes": 60,
+      "learning_style": "hands-on"
+    },
+    "weekly_meeting_hours": 15.0,
+    "avg_study_hours_per_week": 5.0,
+    "risk_profile": "on_track",
+    "hire_date": "2022-09-15",
+    "timezone": "Asia/Kolkata"
+  }
+]
