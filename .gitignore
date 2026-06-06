@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Runtime logs (audit JSONL, etc.)
+logs/
+
 # C extensions
 *.so
 
@@ -229,3 +232,5 @@ yarn-error.log*
 evaluation_results.json
 .env.local
 .env.*.local
+smoke_test.py
+verify_phase3.py
