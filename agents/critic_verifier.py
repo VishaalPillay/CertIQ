@@ -189,22 +189,19 @@ class CriticVerifierAgent(BaseAgent):
         original_request: str,
         agent_response: AgentResponse,
         callback: Callable[[AuditEntry], None] | None = None,
-    ) -> threading.Thread:
+    ) -> None:
         """
-        Launch an audit in a daemon thread (non-blocking).
-
-        Phase 3: Uses threading.Thread(daemon=True).
-        Phase 4: Will be replaced with asyncio.to_thread().
+        Launch an audit asynchronously (non-blocking).
+        Uses asyncio.create_task and asyncio.to_thread.
 
         Args:
             original_request: The original user request.
             agent_response: The agent's response to audit.
             callback: Optional callback invoked with the AuditEntry
                 when the audit completes.
-
-        Returns:
-            The started daemon Thread (for testing/joining if needed).
         """
+        import asyncio
+
         def _run_audit():
             try:
                 entry = self.audit_response(original_request, agent_response)
@@ -213,15 +210,22 @@ class CriticVerifierAgent(BaseAgent):
             except Exception as e:
                 logger.error("Async audit failed: %s", e)
 
-        thread = threading.Thread(target=_run_audit, daemon=True)
-        thread.start()
-
-        logger.info(
-            "Launched async audit for '%s' response (daemon thread)",
-            agent_response.agent_name,
-        )
-
-        return thread
+        try:
+            loop = asyncio.get_running_loop()
+            loop.create_task(asyncio.to_thread(_run_audit))
+            logger.info(
+                "Launched async audit for '%s' response via asyncio",
+                agent_response.agent_name,
+            )
+        except RuntimeError:
+            # Fallback to threading.Thread if called from a worker thread or sync script
+            import threading
+            thread = threading.Thread(target=_run_audit, daemon=True)
+            thread.start()
+            logger.info(
+                "Launched async audit for '%s' response via fallback daemon thread",
+                agent_response.agent_name,
+            )
 
     # ---------------------------------------------------------------
     # Audit log access (for observability panel)

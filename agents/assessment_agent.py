@@ -30,13 +30,11 @@ import logging
 import uuid
 from typing import Any
 
-from azure.core.credentials import AzureKeyCredential
-from azure.search.documents import SearchClient
-
 from agents.base_agent import BaseAgent
 from agents.config import settings
 from agents.schemas import AgentResponse, BloomLevel
 from data.loader import get_certification_by_code, get_employee, get_employee_history
+from integrations.foundry_iq import get_foundry_iq
 from reasoning.bloom_taxonomy import BloomTaxonomyCalibrator
 
 logger = logging.getLogger(__name__)
@@ -150,13 +148,8 @@ class AssessmentAgent(BaseAgent):
             model_tier="primary",
         )
 
-        # Azure AI Search client for knowledge base queries
-        # (Critical 1 fix -- search_knowledge_base method)
-        self.search_client = SearchClient(
-            endpoint=settings.azure_search_endpoint,
-            index_name=settings.azure_search_index_name,
-            credential=AzureKeyCredential(settings.azure_search_admin_key),
-        )
+        # Centralised FoundryIQ client for knowledge base queries
+        self._foundry_iq = get_foundry_iq()
 
     # ---------------------------------------------------------------
     # Knowledge base search (Critical 1)
@@ -169,7 +162,7 @@ class AssessmentAgent(BaseAgent):
     ) -> list[dict[str, Any]]:
         """
         Query the ``certiq-knowledge`` index using hybrid search
-        (BM25 keyword + Azure semantic ranking).
+        via the FoundryIQ service.
 
         Retrieved chunks are injected verbatim into the system prompt
         as GROUNDED CONTEXT.  The agent is instructed to ONLY generate
@@ -184,13 +177,7 @@ class AssessmentAgent(BaseAgent):
             ``section``, ``id``.
         """
         try:
-            results = self.search_client.search(
-                search_text=query,
-                query_type="semantic",
-                semantic_configuration_name="certiq-semantic",
-                top=top_k,
-                select=["content", "source_file", "section_heading", "chunk_id"],
-            )
+            results = self._foundry_iq.search(query, top_k=top_k)
 
             chunks = []
             for result in results:

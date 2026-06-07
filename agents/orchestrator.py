@@ -32,6 +32,7 @@ from agents.base_agent import BaseAgent
 from agents.schemas import AgentName, AgentResponse, ExecutionPlan, VerificationResult
 from reasoning.planner import IntentPlanner
 from reasoning.reflection import SelfReflectionEngine
+from reasoning.trace_hook import trigger_trace_step
 
 logger = logging.getLogger(__name__)
 
@@ -220,6 +221,12 @@ class OrchestratorAgent(BaseAgent):
                 f"[STEP {step.step_id}] Invoking {step.agent.value}: "
                 f"{step.description[:100]}"
             )
+            trigger_trace_step({
+                "type": "step_start",
+                "step_id": step.step_id,
+                "agent": step.agent.value,
+                "description": step.description,
+            })
 
             try:
                 agent = self._get_agent(step.agent)
@@ -269,6 +276,15 @@ class OrchestratorAgent(BaseAgent):
                     "confidence": agent_response.confidence_score,
                     "completed": True,
                 })
+                trigger_trace_step({
+                    "type": "step_complete",
+                    "step_id": step.step_id,
+                    "agent": step.agent.value,
+                    "description": step.description,
+                    "confidence": agent_response.confidence_score,
+                    "verification_passed": agent_response.verification.passed,
+                    "result_preview": str(agent_response.result)[:500]
+                })
 
             except Exception as e:
                 logger.error(
@@ -284,6 +300,13 @@ class OrchestratorAgent(BaseAgent):
                     "confidence": 0.0,
                     "completed": False,
                     "error": str(e)[:200],
+                })
+                trigger_trace_step({
+                    "type": "step_fail",
+                    "step_id": step.step_id,
+                    "agent": step.agent.value,
+                    "description": step.description,
+                    "error": str(e)[:200]
                 })
 
         # --- Step 4: Async Critic audit (non-blocking) ---

@@ -234,3 +234,5 @@ evaluation_results.json
 .env.*.local
 smoke_test.py
 verify_phase3.py
+sub_implementation_plan_phase4_FINAL.md
+verify_phase4.py
